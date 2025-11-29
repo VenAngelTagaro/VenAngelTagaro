@@ -1,6 +1,6 @@
 ## Ven Angel Tagaro 🥟
 
-**Bachelor of Science in Information Technology**
+**[Bachelor of Science in Information Technology]**
 
 A student from New Era University, he is a technology enthusiast. He loves creating things in his own way, even when there are constraints set by his instructors. He also enjoys designing and strives to appear professional, even if he isn’t fully there yet. He has a passion for art and enjoys playing games such as Warframe, Monster Hunter, and others. Due to his awkwardness, he prefers to communicate one-on-one, where he can explain his ideas.
 
