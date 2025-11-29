@@ -24,4 +24,4 @@ A student from New Era University, he is a technology enthusiast. He loves creat
 
 ## 🎓 My Certificates
 
-[![SQL Certificate](https://raw.githubusercontent.com/VenAngelTagaro/VenAngelTagaro/main/assets/certificates/sql_certificate.png)](https://courses.cognitiveclass.ai/certificates/9434e9ee64e74a4ca2c5c85b85069b6b)
+- [SQL Certificate](https://courses.cognitiveclass.ai/certificates/9434e9ee64e74a4ca2c5c85b85069b6b)
