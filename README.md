@@ -25,3 +25,4 @@ A student from New Era University, he is a technology enthusiast. He loves creat
 ## 🎓 My Certificates
 
 - [SQL Certificate](https://courses.cognitiveclass.ai/certificates/9434e9ee64e74a4ca2c5c85b85069b6b)
+- [Become an Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AAF9C9721462A186A8F77EF701957C1305071F3A2F4250D01D0D6C88642C19BD)
