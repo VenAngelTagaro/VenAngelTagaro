@@ -26,3 +26,4 @@ A student from New Era University, he is a technology enthusiast. He loves creat
 
 - [SQL Certificate](https://courses.cognitiveclass.ai/certificates/9434e9ee64e74a4ca2c5c85b85069b6b)
 - [Become an Oracle Data Platform Foundations Associate Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AAF9C9721462A186A8F77EF701957C1305071F3A2F4250D01D0D6C88642C19BD)
+- [Become An OCI AI Foundations Associate (2025) Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BF876D7D347F54C3E08B753372414B5B673B6B8CA8CD3FB811505450CE631E9E)
